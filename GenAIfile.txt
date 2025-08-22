@@ -1,0 +1,53 @@
+Log ID	Log Received Time	Maintenance Activity Time	Short Description of Activity	Activity Start Time	Performer Name	Approver Name	Activity End Time	Time from Log to Start (mins)	Activity Duration (mins)	Full Time Span (mins)	Maintenance Type
+LOG001	2025-08-21 08:05:00	08:20:00	Update system configuration	2025-08-21 08:20:00	Alice	Manager1	2025-08-21 09:00:00	15.0	40.0	55.0	Adaptive
+LOG002	2025-08-21 09:10:00	09:25:00	Clean temporary files	2025-08-21 09:25:00	Bob	LeadA	2025-08-21 10:00:00	15.0	35.0	50.0	Preventive
+LOG003	2025-08-21 10:05:00	10:20:00	Fix slow boot issue	2025-08-21 10:20:00	Charlie	Manager2	2025-08-21 11:10:00	15.0	50.0	65.0	Corrective
+LOG004	2025-08-21 11:15:00	11:30:00	Improve UI responsiveness	2025-08-21 11:30:00	Diana	SupervisorX	2025-08-21 12:10:00	15.0	40.0	55.0	Perfective
+LOG005	2025-08-21 12:20:00	12:35:00	Optimize search functionality	2025-08-21 12:35:00	Ethan	Manager1	2025-08-21 13:15:00	15.0	40.0	55.0	Perfective
+LOG006	2025-08-21 13:10:00	13:25:00	Update password policies	2025-08-21 13:25:00	Alice	LeadA	2025-08-21 14:00:00	15.0	35.0	50.0	Adaptive
+LOG007	2025-08-21 14:15:00	14:30:00	Restart database service	2025-08-21 14:30:00	Bob	Manager2	2025-08-21 15:10:00	15.0	40.0	55.0	Corrective
+LOG008	2025-08-21 15:05:00	15:20:00	Run system diagnostics	2025-08-21 15:20:00	Charlie	SupervisorX	2025-08-21 16:00:00	15.0	40.0	55.0	Preventive
+LOG009	2025-08-21 16:15:00	16:30:00	Fix printer connectivity	2025-08-21 16:30:00	Diana	LeadA	2025-08-21 17:05:00	15.0	35.0	50.0	Corrective
+LOG010	2025-08-21 17:10:00	17:25:00	Archive old project files	2025-08-21 17:25:00	Ethan	Manager1	2025-08-21 18:00:00	15.0	35.0	50.0	Preventive
+LOG011	2025-08-21 18:15:00	18:30:00	Reconfigure network switch	2025-08-21 18:30:00	Alice	SupervisorX	2025-08-21 19:15:00	15.0	45.0	60.0	Adaptive
+LOG012	2025-08-21 19:20:00	19:35:00	Patch security vulnerability	2025-08-21 19:35:00	Bob	Manager2	2025-08-21 20:20:00	15.0	45.0	60.0	Corrective
+LOG013	2025-08-21 20:30:00	20:45:00	Remove unused software	2025-08-21 20:45:00	Charlie	LeadA	2025-08-21 21:30:00	15.0	45.0	60.0	Perfective
+LOG014	2025-08-21 21:35:00	21:50:00	Backup critical systems	2025-08-21 21:50:00	Diana	Manager1	2025-08-21 22:35:00	15.0	45.0	60.0	Preventive
+LOG015	2025-08-22 08:00:00	08:15:00	Adjust firewall settings	2025-08-22 08:15:00	Ethan	SupervisorX	2025-08-22 09:00:00	15.0	45.0	60.0	Adaptive
+LOG016	2025-08-22 09:10:00	09:25:00	Clean registry entries	2025-08-22 09:25:00	Alice	LeadA	2025-08-22 10:10:00	15.0	45.0	60.0	Preventive
+LOG017	2025-08-22 10:15:00	10:30:00	Upgrade backup software	2025-08-22 10:30:00	Bob	Manager1	2025-08-22 11:15:00	15.0	45.0	60.0	Perfective
+LOG018	2025-08-22 11:20:00	11:35:00	Fix email syncing issue	2025-08-22 11:35:00	Charlie	SupervisorX	2025-08-22 12:20:00	15.0	45.0	60.0	Corrective
+LOG019	2025-08-22 12:25:00	12:40:00	Monitor system performance	2025-08-22 12:40:00	Diana	Manager2	2025-08-22 13:20:00	15.0	40.0	55.0	Preventive
+LOG020	2025-08-22 13:15:00	13:30:00	Implement new cache system	2025-08-22 13:30:00	Ethan	LeadA	2025-08-22 14:10:00	15.0	40.0	55.0	Adaptive
+LOG021	2025-08-22 14:20:00	14:35:00	Test failover system	2025-08-22 14:35:00	Alice	SupervisorX	2025-08-22 15:15:00	15.0	40.0	55.0	Preventive
+LOG022	2025-08-22 15:25:00	15:40:00	Install printer drivers	2025-08-22 15:40:00	Bob	Manager2	2025-08-22 16:15:00	15.0	35.0	50.0	Corrective
+LOG023	2025-08-22 16:30:00	16:45:00	Improve database indexing	2025-08-22 16:45:00	Charlie	LeadA	2025-08-22 17:20:00	15.0	35.0	50.0	Perfective
+LOG025	2025-08-22 17:45:00	18:00:00	Restart DNS service	2025-08-22 18:00:00	Ethan	SupervisorX	2025-08-22 18:35:00	15.0	35.0	50.0	Corrective
+LOG026	2025-08-23 08:05:00	08:20:00	Upgrade firmware on devices	2025-08-23 08:20:00	Alice	Manager1	2025-08-23 09:05:00	15.0	45.0	60.0	Perfective
+LOG027	2025-08-23 09:10:00	09:25:00	Replace faulty hardware	2025-08-23 09:25:00	Bob	LeadA	2025-08-23 10:15:00	15.0	50.0	65.0	Corrective
+LOG028	2025-08-23 10:20:00	10:35:00	Optimize network bandwidth	2025-08-23 10:35:00	Charlie	Manager2	2025-08-23 11:15:00	15.0	40.0	55.0	Adaptive
+LOG029	2025-08-23 11:20:00	11:35:00	Clean up disk space	2025-08-23 11:35:00	Diana	SupervisorX	2025-08-23 12:10:00	15.0	35.0	50.0	Preventive
+LOG030	2025-08-23 12:15:00	12:30:00	Update user permissions	2025-08-23 12:30:00	Ethan	Manager1	2025-08-23 13:00:00	15.0	30.0	45.0	Adaptive
+LOG031	2025-08-23 13:05:00	13:20:00	Monitor server uptime	2025-08-23 13:20:00	Alice	LeadA	2025-08-23 14:00:00	15.0	40.0	55.0	Preventive
+LOG032	2025-08-23 14:10:00	14:25:00	Fix software bugs	2025-08-23 14:25:00	Bob	SupervisorX	2025-08-23 15:05:00	15.0	40.0	55.0	Corrective
+LOG033	2025-08-23 15:15:00	15:30:00	Enhance backup schedule	2025-08-23 15:30:00	Charlie	Manager2	2025-08-23 16:00:00	15.0	30.0	45.0	Perfective
+LOG034	2025-08-23 16:05:00	16:20:00	Test disaster recovery	2025-08-23 16:20:00	Diana	LeadA	2025-08-23 17:00:00	15.0	40.0	55.0	Preventive
+LOG035	2025-08-23 17:10:00	17:25:00	Configure VPN access	2025-08-23 17:25:00	Ethan	SupervisorX	2025-08-23 18:00:00	15.0	35.0	50.0	Adaptive
+LOG036	2025-08-24 08:00:00	08:15:00	Install security updates	2025-08-24 08:15:00	Alice	Manager1	2025-08-24 08:50:00	15.0	35.0	50.0	Corrective
+LOG037	2025-08-24 09:10:00	09:25:00	Audit access logs	2025-08-24 09:25:00	Bob	LeadA	2025-08-24 10:00:00	15.0	35.0	50.0	Preventive
+LOG038	2025-08-24 10:15:00	10:30:00	Resolve user account issues	2025-08-24 10:30:00	Charlie	Manager2	2025-08-24 11:10:00	15.0	40.0	55.0	Corrective
+LOG039	2025-08-24 11:20:00	11:35:00	Upgrade database engine	2025-08-24 11:35:00	Diana	SupervisorX	2025-08-24 12:15:00	15.0	40.0	55.0	Perfective
+LOG040	2025-08-24 12:25:00	12:40:00	Validate system backups	2025-08-24 12:40:00	Ethan	Manager1	2025-08-24 13:20:00	15.0	40.0	55.0	Preventive
+LOG041	2025-08-24 13:15:00	13:30:00	Configure email filters	2025-08-24 13:30:00	Alice	LeadA	2025-08-24 14:05:00	15.0	35.0	50.0	Adaptive
+LOG042	2025-08-24 14:10:00	14:25:00	Patch application server	2025-08-24 14:25:00	Bob	SupervisorX	2025-08-24 15:00:00	15.0	35.0	50.0	Corrective
+LOG043	2025-08-24 15:15:00	15:30:00	Optimize query performance	2025-08-24 15:30:00	Charlie	Manager2	2025-08-24 16:10:00	15.0	40.0	55.0	Perfective
+LOG044	2025-08-24 16:20:00	16:35:00	Test backup restoration	2025-08-24 16:35:00	Diana	LeadA	2025-08-24 17:10:00	15.0	35.0	50.0	Preventive
+LOG045	2025-08-24 17:15:00	17:30:00	Reboot critical servers	2025-08-24 17:30:00	Ethan	SupervisorX	2025-08-24 18:00:00	15.0	30.0	45.0	Corrective
+LOG046	2025-08-25 08:00:00	08:15:00	Clean malware infections	2025-08-25 08:15:00	Alice	Manager1	2025-08-25 09:00:00	15.0	45.0	60.0	Corrective
+LOG047	2025-08-25 09:10:00	09:25:00	Improve logging features	2025-08-25 09:25:00	Bob	LeadA	2025-08-25 10:00:00	15.0	35.0	50.0	Perfective
+LOG048	2025-08-25 10:05:00	10:20:00	Review access controls	2025-08-25 10:20:00	Charlie	Manager2	2025-08-25 11:00:00	15.0	40.0	55.0	Preventive
+LOG049	2025-08-25 11:15:00	11:30:00	Upgrade software licenses	2025-08-25 11:30:00	Diana	SupervisorX	2025-08-25 12:10:00	15.0	40.0	55.0	Adaptive
+LOG050	2025-08-25 12:20:00	12:35:00	Test system failover	2025-08-25 12:35:00	Ethan	Manager1	2025-08-25 13:15:00	15.0	40.0	55.0	Preventive
+											
+ 											
+Let me know if you want me to format or expand on anything else!											
