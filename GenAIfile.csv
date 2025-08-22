@@ -1,0 +1,53 @@
+Log ID,Log Received Time,Maintenance Activity Time,Short Description of Activity,Activity Start Time,Performer Name,Approver Name,Activity End Time,Time from Log to Start (mins),Activity Duration (mins),Full Time Span (mins),Maintenance Type
+LOG001,08/21/25 08:05 AM,08:20:00 AM,Update system configuration,08/21/25 08:20 AM,Alice,Manager1,08/21/25 09:00 AM,15,40,55,Adaptive
+LOG002,08/21/25 09:10 AM,09:25:00 AM,Clean temporary files,08/21/25 09:25 AM,Bob,LeadA,08/21/25 10:00 AM,15,35,50,Preventive
+LOG003,08/21/25 10:05 AM,10:20:00 AM,Fix slow boot issue,08/21/25 10:20 AM,Charlie,Manager2,08/21/25 11:10 AM,15,50,65,Corrective
+LOG004,08/21/25 11:15 AM,11:30:00 AM,Improve UI responsiveness,08/21/25 11:30 AM,Diana,SupervisorX,08/21/25 12:10 PM,15,40,55,Perfective
+LOG005,08/21/25 12:20 PM,12:35:00 PM,Optimize search functionality,08/21/25 12:35 PM,Ethan,Manager1,08/21/25 01:15 PM,15,40,55,Perfective
+LOG006,08/21/25 01:10 PM,01:25:00 PM,Update password policies,08/21/25 01:25 PM,Alice,LeadA,08/21/25 02:00 PM,15,35,50,Adaptive
+LOG007,08/21/25 02:15 PM,02:30:00 PM,Restart database service,08/21/25 02:30 PM,Bob,Manager2,08/21/25 03:10 PM,15,40,55,Corrective
+LOG008,08/21/25 03:05 PM,03:20:00 PM,Run system diagnostics,08/21/25 03:20 PM,Charlie,SupervisorX,08/21/25 04:00 PM,15,40,55,Preventive
+LOG009,08/21/25 04:15 PM,04:30:00 PM,Fix printer connectivity,08/21/25 04:30 PM,Diana,LeadA,08/21/25 05:05 PM,15,35,50,Corrective
+LOG010,08/21/25 05:10 PM,05:25:00 PM,Archive old project files,08/21/25 05:25 PM,Ethan,Manager1,08/21/25 06:00 PM,15,35,50,Preventive
+LOG011,08/21/25 06:15 PM,06:30:00 PM,Reconfigure network switch,08/21/25 06:30 PM,Alice,SupervisorX,08/21/25 07:15 PM,15,45,60,Adaptive
+LOG012,08/21/25 07:20 PM,07:35:00 PM,Patch security vulnerability,08/21/25 07:35 PM,Bob,Manager2,08/21/25 08:20 PM,15,45,60,Corrective
+LOG013,08/21/25 08:30 PM,08:45:00 PM,Remove unused software,08/21/25 08:45 PM,Charlie,LeadA,08/21/25 09:30 PM,15,45,60,Perfective
+LOG014,08/21/25 09:35 PM,09:50:00 PM,Backup critical systems,08/21/25 09:50 PM,Diana,Manager1,08/21/25 10:35 PM,15,45,60,Preventive
+LOG015,08/22/25 08:00 AM,08:15:00 AM,Adjust firewall settings,08/22/25 08:15 AM,Ethan,SupervisorX,08/22/25 09:00 AM,15,45,60,Adaptive
+LOG016,08/22/25 09:10 AM,09:25:00 AM,Clean registry entries,08/22/25 09:25 AM,Alice,LeadA,08/22/25 10:10 AM,15,45,60,Preventive
+LOG017,08/22/25 10:15 AM,10:30:00 AM,Upgrade backup software,08/22/25 10:30 AM,Bob,Manager1,08/22/25 11:15 AM,15,45,60,Perfective
+LOG018,08/22/25 11:20 AM,11:35:00 AM,Fix email syncing issue,08/22/25 11:35 AM,Charlie,SupervisorX,08/22/25 12:20 PM,15,45,60,Corrective
+LOG019,08/22/25 12:25 PM,12:40:00 PM,Monitor system performance,08/22/25 12:40 PM,Diana,Manager2,08/22/25 01:20 PM,15,40,55,Preventive
+LOG020,08/22/25 01:15 PM,01:30:00 PM,Implement new cache system,08/22/25 01:30 PM,Ethan,LeadA,08/22/25 02:10 PM,15,40,55,Adaptive
+LOG021,08/22/25 02:20 PM,02:35:00 PM,Test failover system,08/22/25 02:35 PM,Alice,SupervisorX,08/22/25 03:15 PM,15,40,55,Preventive
+LOG022,08/22/25 03:25 PM,03:40:00 PM,Install printer drivers,08/22/25 03:40 PM,Bob,Manager2,08/22/25 04:15 PM,15,35,50,Corrective
+LOG023,08/22/25 04:30 PM,04:45:00 PM,Improve database indexing,08/22/25 04:45 PM,Charlie,LeadA,08/22/25 05:20 PM,15,35,50,Perfective
+LOG025,08/22/25 05:45 PM,06:00:00 PM,Restart DNS service,08/22/25 06:00 PM,Ethan,SupervisorX,08/22/25 06:35 PM,15,35,50,Corrective
+LOG026,08/23/25 08:05 AM,08:20:00 AM,Upgrade firmware on devices,08/23/25 08:20 AM,Alice,Manager1,08/23/25 09:05 AM,15,45,60,Perfective
+LOG027,08/23/25 09:10 AM,09:25:00 AM,Replace faulty hardware,08/23/25 09:25 AM,Bob,LeadA,08/23/25 10:15 AM,15,50,65,Corrective
+LOG028,08/23/25 10:20 AM,10:35:00 AM,Optimize network bandwidth,08/23/25 10:35 AM,Charlie,Manager2,08/23/25 11:15 AM,15,40,55,Adaptive
+LOG029,08/23/25 11:20 AM,11:35:00 AM,Clean up disk space,08/23/25 11:35 AM,Diana,SupervisorX,08/23/25 12:10 PM,15,35,50,Preventive
+LOG030,08/23/25 12:15 PM,12:30:00 PM,Update user permissions,08/23/25 12:30 PM,Ethan,Manager1,08/23/25 01:00 PM,15,30,45,Adaptive
+LOG031,08/23/25 01:05 PM,01:20:00 PM,Monitor server uptime,08/23/25 01:20 PM,Alice,LeadA,08/23/25 02:00 PM,15,40,55,Preventive
+LOG032,08/23/25 02:10 PM,02:25:00 PM,Fix software bugs,08/23/25 02:25 PM,Bob,SupervisorX,08/23/25 03:05 PM,15,40,55,Corrective
+LOG033,08/23/25 03:15 PM,03:30:00 PM,Enhance backup schedule,08/23/25 03:30 PM,Charlie,Manager2,08/23/25 04:00 PM,15,30,45,Perfective
+LOG034,08/23/25 04:05 PM,04:20:00 PM,Test disaster recovery,08/23/25 04:20 PM,Diana,LeadA,08/23/25 05:00 PM,15,40,55,Preventive
+LOG035,08/23/25 05:10 PM,05:25:00 PM,Configure VPN access,08/23/25 05:25 PM,Ethan,SupervisorX,08/23/25 06:00 PM,15,35,50,Adaptive
+LOG036,08/24/25 08:00 AM,08:15:00 AM,Install security updates,08/24/25 08:15 AM,Alice,Manager1,08/24/25 08:50 AM,15,35,50,Corrective
+LOG037,08/24/25 09:10 AM,09:25:00 AM,Audit access logs,08/24/25 09:25 AM,Bob,LeadA,08/24/25 10:00 AM,15,35,50,Preventive
+LOG038,08/24/25 10:15 AM,10:30:00 AM,Resolve user account issues,08/24/25 10:30 AM,Charlie,Manager2,08/24/25 11:10 AM,15,40,55,Corrective
+LOG039,08/24/25 11:20 AM,11:35:00 AM,Upgrade database engine,08/24/25 11:35 AM,Diana,SupervisorX,08/24/25 12:15 PM,15,40,55,Perfective
+LOG040,08/24/25 12:25 PM,12:40:00 PM,Validate system backups,08/24/25 12:40 PM,Ethan,Manager1,08/24/25 01:20 PM,15,40,55,Preventive
+LOG041,08/24/25 01:15 PM,01:30:00 PM,Configure email filters,08/24/25 01:30 PM,Alice,LeadA,08/24/25 02:05 PM,15,35,50,Adaptive
+LOG042,08/24/25 02:10 PM,02:25:00 PM,Patch application server,08/24/25 02:25 PM,Bob,SupervisorX,08/24/25 03:00 PM,15,35,50,Corrective
+LOG043,08/24/25 03:15 PM,03:30:00 PM,Optimize query performance,08/24/25 03:30 PM,Charlie,Manager2,08/24/25 04:10 PM,15,40,55,Perfective
+LOG044,08/24/25 04:20 PM,04:35:00 PM,Test backup restoration,08/24/25 04:35 PM,Diana,LeadA,08/24/25 05:10 PM,15,35,50,Preventive
+LOG045,08/24/25 05:15 PM,05:30:00 PM,Reboot critical servers,08/24/25 05:30 PM,Ethan,SupervisorX,08/24/25 06:00 PM,15,30,45,Corrective
+LOG046,08/25/25 08:00 AM,08:15:00 AM,Clean malware infections,08/25/25 08:15 AM,Alice,Manager1,08/25/25 09:00 AM,15,45,60,Corrective
+LOG047,08/25/25 09:10 AM,09:25:00 AM,Improve logging features,08/25/25 09:25 AM,Bob,LeadA,08/25/25 10:00 AM,15,35,50,Perfective
+LOG048,08/25/25 10:05 AM,10:20:00 AM,Review access controls,08/25/25 10:20 AM,Charlie,Manager2,08/25/25 11:00 AM,15,40,55,Preventive
+LOG049,08/25/25 11:15 AM,11:30:00 AM,Upgrade software licenses,08/25/25 11:30 AM,Diana,SupervisorX,08/25/25 12:10 PM,15,40,55,Adaptive
+LOG050,08/25/25 12:20 PM,12:35:00 PM,Test system failover,08/25/25 12:35 PM,Ethan,Manager1,08/25/25 01:15 PM,15,40,55,Preventive
+,,,,,,,,,,,
+ ,,,,,,,,,,,
+Let me know if you want me to format or expand on anything else!,,,,,,,,,,,
